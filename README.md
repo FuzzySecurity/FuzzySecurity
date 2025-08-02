@@ -53,38 +53,37 @@
 
 ### Reach Out
 
-<p align="justify" style="font-family: 'Lato', sans-serif;">If you want to reach out securely you can use my GPG key.</p>
+<p align="justify" style="font-family: 'Lato', sans-serif;">If you want to reach out securely you can use my hardware based GPG key.</p>
 
 <pre style="font-family:'Roboto Mono';font-size: 12px;">
 -----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: User-ID:	Ruben Boonen <ru.boonen@gmail.com>
+Comment: Valid from:	02/08/2025 14:28
+Comment: Valid until:	02/08/2027 14:28
+Comment: Type:	512-bit ECDSA (secret key available)
+Comment: Usage:	Signing, Encryption, Certifying User-IDs
+Comment: Fingerprint:	030048B21CC300EACF55E26721F1D487463C1A80
 
-mJMEY+IWohMFK4EEACMEIwQA1uZ3cO7MvyOYlLhP+/EmO2pfQwahrA3+wIIDPDhJ
-XiRRwGas8s3upHoR51YaMk/cV2bkKNayAAgQFqEpCRDye+8BAJo6xe13vNAMSyAa
-owmh1MGJ1hQmdRSx2q+YpRv/k2atI8FElhL3vKj1iFNhC27Hm7H6jBcuDrqZ5bYf
-xsZkT5G0KVJ1YmVuIEJvb25lbiAoYjMzZikgPHJ1LmJvb25lbkBnbWFpbC5jb20+
-iNsEExMKAEEWIQTiHvdXQ5NAud69esauSLHuvMys/AUCY+IW2wIbAwUJA8JnAAUL
-CQgHAgIiAgYVCgkICwIEFgIDAQIeBwIXgAAKCRCuSLHuvMys/MyKAgi8KapI6vla
-c1OGP+THESJMgZqOv7oWy1wi3Wga5IFBd7CzmYRtLuEgn3zlMI36GW+lq1kp9KMG
-T4pOi4CcuzA7qwIIo/61rAZvjeEQ1JlOHN43co+go3Zg18d4zZFCtMqQO3PWPcPT
-TIPjndvNpTbydqslPLneAF0+4k92hQvxEAVPaqK4lwRj4havEgUrgQQAIwQjBAFb
-kWgyrafYL1kaKg2BQMGHvOp79+nydADn/tLf8y5iJfsX2utxZEpbhomp8sW9sx7i
-dpYNMzkAIPwvcRnE4kAQ0wB5e1NuOnR9YU6lXO1oJy30LCusS5+csB2AD0EHQjfF
-y0Ls7NQVgtJHVdtwTt9Z0qWHv6MGYQzHDRLf1sMfPRiukAMBCgmIugQYEwoAIBYh
-BOIe91dDk0C53r16xq5Ise68zKz8BQJj4hbbAhsMAAoJEK5Ise68zKz8db8CCKBk
-8RNmJPXcM2SpkZQk85YcmbQT0oMsm0Trl6ezb7NwNgkAnPwmRHZ7b2tmjtqDYuP/
-YjW5IrDnYOJ8W5U7/0sAAgj312rR5nnMxFuEADMO2f7ddjGVK0YerfGaDvqVspp3
-BQ5MzN9Lkt9ToYTcKFcuYU4bWIlBs8cof/pvG6N1hdEVDQ==
-=ZkKB
------END PGP PUBLIC KEY BLOCK-----</pre>
 
-<p align="justify" style="font-family: 'Lato', sans-serif;">Key metadata:</p>
-
-<pre style="font-family:'Roboto Mono';font-size: 12px;">
-smart card   D2760001240100000006233501640000 (YubiKey 5)
-pub          nistp521 2023-02-07 [SC] [expires: 2025-02-06]
-             E21EF757439340B9DEBD7AC6AE48B1EEBCCCACFC
-uid          Ruben Boonen (b33f) &lt;ru.boonen@gmail.com&gt;
-sub          nistp521 2023-02-07 [E]</pre>
+mJMEaI6C+hMJKyQDAwIIAQENBAMEojGi/Jx13TedMZqEcmbQw8Y9mW9BRBlCTEEv
+5aEZQZ0nsqQ7fAOzH1mGQgsm6LfR4pPs5Bmw10tCeSy8N9R8CQKV8EKf1lP1aIrz
+noWIFJzyC+s0OabosDqaQBwbAVKd9Dvjg0jURRuXrcMko1kAcgUjghN+k0JxHR2A
+UaTZBVq0IlJ1YmVuIEJvb25lbiA8cnUuYm9vbmVuQGdtYWlsLmNvbT6I2QQTEwoA
+QRYhBAMASLIcwwDqz1XiZyHx1IdGPBqABQJojoONAhsDBQkDwmcABQsJCAcCAiIC
+BhUKCQgLAgQWAgMBAh4HAheAAAoJECHx1IdGPBqAOIQB/RUULylzPHILfRGxuE/Q
+a7EFOquLhXKW15W1iftVS39se/RI/rwXDRa+qPJxgm6MLcf9LRM2QHdwAThmjXtS
++0oB/3lAkM6HMMcbLFwxdTf3ACIxFe5lk1zLNWy08+05IfNMRgWX6sJ3BemLUrCT
+OoDv0Y6yV3DvC/9HG1TAFt264p24lwRojoMQEgkrJAMDAggBAQ0EAwQl/71jd3YZ
+yLe7vySBk7MccPRcmP/Qs82FrVJjFmhsamxEoHvxqcbf1A6fqIN5Gzl0bO4Wj3W2
+LJ/3MjJfmsF5a4KudApXqc4wR3rt/XVJVUYhg32mHNbScghta0wDlc44yzrQqB2N
+8rM0z5UDsyZ0k7LMa50HgOwlN4Z6xyialwMBCgmIvgQYEwoAJgIbDBYhBAMASLIc
+wwDqz1XiZyHx1IdGPBqABQJojoSGBQkDwuzeAAoJECHx1IdGPBqAhKcB/008w/Mk
+mJ+Sy8Z2OUj/6PNp2WAGuxyeeKyjDFEMpMONa86+ngc8jvdoBZJKDD621xP5l797
+KlU6NFckONq0Wd4B/j3NhpzI6VU+owLLDjVMSOHq8xE15Qmi6lwNX0Ku6ZsZu5qF
+JbeWpxhpQ7FP1ZMrUOwDqsD8NT+6QbWtstPTKxA=
+=Nucn
+-----END PGP PUBLIC KEY BLOCK-----
+</pre>
 
 ### Github Stats
 
