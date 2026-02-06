@@ -18,7 +18,7 @@
 
 ### About
 
-- My areas of focus include Windows internals, .NET cross-platform development, post-exploitation, binary instrumentation, Electron and vulnerability research❗
+- My areas of focus include Windows internals, .NET cross-platform development, post-exploitation, binary instrumentation, Android, NodeJS and vulnerability research
 - I like working on bizarre research projects across verticals, the more esoteric the better
 - Artisan ☀️, Developer 🌘, Harmonizer ⬆️
 - Certified Windows 🪟 shill, it's just better than what you're running
@@ -84,7 +84,3 @@ JbeWpxhpQ7FP1ZMrUOwDqsD8NT+6QbWtstPTKxA=
 =Nucn
 -----END PGP PUBLIC KEY BLOCK-----
 </pre>
-
-### Github Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=FuzzySecurity&show_icons=true&theme=nord&hide_title=true&hide_rank=true)<!-- -->![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FuzzySecurity&layout=compact&theme=nord)
